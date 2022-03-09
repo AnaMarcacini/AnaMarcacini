@@ -17,6 +17,4 @@ You can click the Preview link to take a look at your changes.
   <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-</div>
-</div>
 ![Snake animation](https://github.com/AnaMarcacini/AnaMarcacini/blob/output/github-contribution-grid-snake.svg)
