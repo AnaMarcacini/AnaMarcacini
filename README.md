@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- <div style="justify-content:space-between;">
+ <div style="justify-content:space-between;background-color: coral;">
 
   <a href="https://www.linkedin.com/in/ana-helena-marcacini-a06387178" >
   <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
