@@ -34,8 +34,8 @@ public class Ana {
  </summary>
 
   <a href="https://www.linkedin.com/in/ana-helena-marcacini-a06387178" >
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=dracula" style="float: right; margin-left: -10px"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
+  <img height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=vue" style="float: right; margin-left: -10px"/>
  </a>
  </div>
   </details>
