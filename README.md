@@ -22,6 +22,8 @@ public class Ana {
 ```
 
 <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+<a href="https://www.linkedin.com/in/ana-helena-marcacini-a06387178" >
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=vue&include_all_commits=true&count_private=true" /><img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=vue" style="float: right; margin-left: -10px"/>
 
 
 <!---<img src="https://media3.giphy.com/media/IoP0PvbbSWGAM/giphy.gif?cid=ecf05e4790aa33c73746557723b577a26763acf338744053&rid=giphy.gif&ct=g" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
