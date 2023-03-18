@@ -2,6 +2,8 @@
 <h2> Hi, I'm Ana! Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </br>Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologia</br></a><img src="https://media2.giphy.com/media/psyUgULKvl64bjQchw/giphy.gif?cid=790b761157a2c0dece2accecc81f11867dd587a42af0432b&rid=giphy.gif&ct=g" width="50"> 
+</br>Intern at <a href="https://smartcampus.maua.br/">Research Center at Mauá Institute of Technology </br></a><img src="https://maua.br/images/logo-IMT.png" width="50"> 
 </em></p>
 
 
