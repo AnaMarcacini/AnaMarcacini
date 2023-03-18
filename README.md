@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Ana! Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Senior Consultant <a href="https://maua.br/">Mauá Jr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
