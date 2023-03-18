@@ -28,6 +28,9 @@ public class Ana {
 <!---<img src="https://media3.giphy.com/media/IoP0PvbbSWGAM/giphy.gif?cid=ecf05e4790aa33c73746557723b577a26763acf338744053&rid=giphy.gif&ct=g" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 -->
  
+  <a href="https://www.linkedin.com/in/ana-helena-marcacini-a06387178" >
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=vue&include_all_commits=true&count_private=true" /><img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=vue" style="float: right; margin-left: -10px"/>
+ </a>
 ![Snake animation](https://github.com/AnaMarcacini/AnaMarcacini/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -37,9 +40,7 @@ public class Ana {
   <summary> <b> ⭐️ Things to know about me! </b><img style="float: right;" src="https://media3.giphy.com/media/DLxaEcISD5TaM/giphy.gif?cid=ecf05e47fd0c3aabb05b32b3488428a7ad3e1b788d1bf711&rid=giphy.gif&ct=g" width="50">
  </summary>
 
-  <a href="https://www.linkedin.com/in/ana-helena-marcacini-a06387178" >
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=vue&include_all_commits=true&count_private=true" /><img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=vue" style="float: right; margin-left: -10px"/>
- </a>
+ 
  </div>
   </details>
 
