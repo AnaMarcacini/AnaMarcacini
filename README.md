@@ -28,7 +28,7 @@
 ---
 
 <details>
-  <summary> <b> ⭐️ Things to know about me! </b><img style="float: right;" src="https://media3.giphy.com/media/DLxaEcISD5TaM/giphy.gif?cid=ecf05e47fd0c3aabb05b32b3488428a7ad3e1b788d1bf711&rid=giphy.gif&ct=g" width="50">
+  <summary> <b> ⭐️ Things to know about me! </b>
  </summary>
 
  
