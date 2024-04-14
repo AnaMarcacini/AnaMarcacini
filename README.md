@@ -30,7 +30,9 @@
   <summary> <b> ⭐️ Things to know about me! </b>
  </summary>
 
- 
+   <br/>
+	<a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AnaMarcacini&custom_title=AnaMarcacini's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnaMarcacini}/count.svg" alt="AnaMarcacini :: Visitor's Count" /></p>
