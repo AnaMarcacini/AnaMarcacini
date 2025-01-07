@@ -35,11 +35,6 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at MauÃ
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank"/>
 
 
-<!-- <img src="" target="_blank"/>
-<img src="" target="_blank"/>
-<img src="" target="_blank"/>
-<img src="" target="_blank"/> -->
-
  <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
 ### Frameworks
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
@@ -86,7 +81,15 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at MauÃ
 <p align="center"><img src="https://profile-counter.glitch.me/{AnaMarcacini}/count.svg" alt="AnaMarcacini :: Visitor's Count" /></p>
 
 
- </div>
   </details>
   
 
+<!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V0bXBjanU5aWdoZzl2MjFtMWtuZXQ3a2dpams1dzhkdWo2Z3QyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyQY0zTXX4x0c/giphy.gif" width="30" style="border-radius: 50%;"> -->
+<!-- <img src="https://i.gifer.com/GFWM.gif" width="30"> -->
+
+
+
+<!-- <img src="" target="_blank"/>
+<img src="" target="_blank"/>
+<img src="" target="_blank"/>
+<img src="" target="_blank"/> -->
