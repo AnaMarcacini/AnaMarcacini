@@ -14,18 +14,17 @@ Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologi
 Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
 
 
-[![Linkedin: anamarcacini](https://img.shields.io/badge/-AnaHelena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ana-helena/)
+[![Linkedin: anamarcacini](https://img.shields.io/badge/AnaHelena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-helena/)
 [![GitHub anamarcacini](https://img.shields.io/github/followers/anamarcacini?label=follow&style=social)](https://github.com/AnaMarcacini)
-
 
 <details>
   <summary> <h2> knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" ></h2>
  </summary>
 
 <!-- https://img.shields.io/badge/<nome_escrito>-<cor_de_fundo?style=for-the-badge&logo=<nome_logo)&logoColor=<cor_do_logo>" target="_blank"> 
-
+https://www.linkedin.com/pulse/como-criar-badges-figurinhas-personalizadas-github-giacomelli/
 https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-badge
-
+<nome_logo> -> https://simpleicons.org/
 -->
 <details>
   <summary> <h3> Languages [click here]</h3>
@@ -41,6 +40,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank"/>
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
   </details>
 <details>
