@@ -27,8 +27,11 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-badge
 
 -->
+<details>
+  <summary> <h3> Languages [click here]</h3>
+ </summary>
 
-### Languages
+<!-- ### Languages -->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"/>
@@ -39,21 +42,32 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go"/>
 
+  </details>
+<details>
+  <summary> <h3> Frameworks [click here]</h3>
+ </summary>
 
  <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
-### Frameworks
+### 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
 <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react" target="_blank"/>
 <img src="https://img.shields.io/badge/Vue.js-eeeeee?style=for-the-badge&logo=Vue.js" target="_blank"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </details>
 
+<details>
+  <summary> <h3> IDEs [click here]</h3>
+ </summary>
 
-### IDEs
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit" target="_blank">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"/>
 
-### Technologies
+  </details>
+
+<details>
+  <summary> <h3> Technologies [click here]</h3>
+ </summary>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"/>
@@ -80,6 +94,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 <!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white"/> -->
   </details>
+</details>
 
 
 ### GitHub Statistics  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -123,7 +138,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 
 <!-- 
 <details>
-  <summary> <b> Titulo</b>
+  <summary> <h3> Titulo</h3>
  </summary>
 
   </details> -->
