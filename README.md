@@ -3,9 +3,15 @@
 <img align='right' src="src/Linux1.gif" width="210">
 
 
-<p><em><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a>
-  </br> <img src="https://www.inexistentman.net/wp-content/uploads/2013/12/0tlnknd-imgur.gif" width="30">   Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologia</a>
-</br><img src="https://i.gifer.com/EF93.gif" width="30" style="border-radius: 50%;">   Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
+<p><em>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>
+Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a></br> 
+<img src="https://lh6.googleusercontent.com/proxy/qmfdGtBNMopLrRx7K-k5mlK9N3SGXdCstk_Fj0pWYctJe9pLzjNwIpCvjsqe5dUv8VGisS-vGJUesZ4Jc1tn_8-NuOxnBqkMV4iaEFkwdQFJTzgz" width="30">
+Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologia</a></br>
+<img src="https://i.gifer.com/EF93.gif" width="30" style="border-radius: 50%;">
+Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
 
 
 [![Linkedin: anamarcacini](https://img.shields.io/badge/-AnaHelena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ana-helena/)
