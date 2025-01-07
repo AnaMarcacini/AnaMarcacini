@@ -14,7 +14,7 @@ Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologi
 Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
 
 
-[![Linkedin: anamarcacini](https://img.shields.io/badge/AnaHelena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-helena/)
+[![Linkedin: anamarcacini](https://img.shields.io/badge/AnaHelena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-helena/)
 [![GitHub anamarcacini](https://img.shields.io/github/followers/anamarcacini?label=follow&style=social)](https://github.com/AnaMarcacini)
 
 <details>
