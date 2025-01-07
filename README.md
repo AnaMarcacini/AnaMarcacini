@@ -6,7 +6,7 @@
 <p><em>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>
 Computer Enginner at <a href="https://maua.br/"> Instituto Mau√° de Tecnologia </a></br> 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30">
 Former Senior Consultant <a href="https://maua.br/">Mau√° Jr</a></br> 
 <img src="https://lh6.googleusercontent.com/proxy/qmfdGtBNMopLrRx7K-k5mlK9N3SGXdCstk_Fj0pWYctJe9pLzjNwIpCvjsqe5dUv8VGisS-vGJUesZ4Jc1tn_8-NuOxnBqkMV4iaEFkwdQFJTzgz" width="30">
 Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mau√° de Tecnologia</a></br>
@@ -23,6 +23,11 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 ## knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" >
 
 
+<!-- https://img.shields.io/badge/<nome_escrito>-<cor_de_fundo?style=for-the-badge&logo=<nome_logo)&logoColor=<cor_do_logo>" target="_blank"> 
+
+https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-badge
+
+-->
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"/>
@@ -33,18 +38,17 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank"/>
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank"/>
+<img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go"/>
 
 
-<details>
-  <summary> <h3>Frameworks </h3></summary>
-    <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
-    <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react" target="_blank"/>
-    <img src="https://img.shields.io/badge/Vue.js-eeeeee?style=for-the-badge&logo=Vue.js" target="_blank"/>
+ <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
+### Frameworks
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
+<img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react" target="_blank"/>
+<img src="https://img.shields.io/badge/Vue.js-eeeeee?style=for-the-badge&logo=Vue.js" target="_blank"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 
-  </details>
- 
 ### IDEs
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit" target="_blank">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"/>
@@ -54,9 +58,28 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"/>
+<img src=https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white >
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
+<img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
+<img src=https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white>
+<img src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=whit >
+<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black >
+<img src=https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white>
+<img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white>
+<img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white>
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src=""/>
+<img src=""/>
+
+<!-- <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white > -->
+<!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white"/> -->
 
 
 ### GitHub Statistics  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -97,4 +120,11 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 <img src="" target="_blank"/>
 <img src="" target="_blank"/> -->
 
+
+<!-- 
+<details>
+  <summary> <b> Titulo</b>
+ </summary>
+
+  </details> -->
 

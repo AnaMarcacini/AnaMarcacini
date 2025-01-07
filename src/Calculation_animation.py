@@ -20,7 +20,7 @@ ax = fig.add_subplot(111, projection='3d')
 
 def update(frame):
     ax.clear()
-    ax.set_title("Função 3D: $f(x, y) = \\sin(\\sqrt{x^2 + y^2})$")
+    # ax.set_title("Função 3D: $f(x, y) = \\sin(\\sqrt{x^2 + y^2})$")
     ax.set_xlabel('X')
     ax.set_ylabel('Y')
     ax.set_zlabel('Z')
@@ -32,7 +32,4 @@ def update(frame):
 ani = animation.FuncAnimation(fig, update, frames=100, interval=100)
 
 # Salvando a animação como gif
-ani.save('3d_function_animation.gif', writer='imagemagick')
-
-# Exibindo o gif gerado
-# "/mnt/data/3d_function_animation.gif"
+ani.save('animation.gif', writer='imagemagick')
