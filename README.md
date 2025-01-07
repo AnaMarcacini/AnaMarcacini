@@ -8,7 +8,7 @@
 Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30">
 Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a></br> 
-<img src="https://lh6.googleusercontent.com/proxy/qmfdGtBNMopLrRx7K-k5mlK9N3SGXdCstk_Fj0pWYctJe9pLzjNwIpCvjsqe5dUv8VGisS-vGJUesZ4Jc1tn_8-NuOxnBqkMV4iaEFkwdQFJTzgz" width="30">
+<img src="src/animation.gif" width="30">
 Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologia</a></br>
 <img src="https://i.gifer.com/EF93.gif" width="30" style="border-radius: 50%;">
 Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
@@ -74,8 +74,8 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src=""/>
-<img src=""/>
+<!-- <img src=""/> -->
+<!-- <img src=""/> -->
 
 <!-- <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white > -->
 <!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> -->
