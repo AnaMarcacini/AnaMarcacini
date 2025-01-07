@@ -18,10 +18,9 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 [![GitHub anamarcacini](https://img.shields.io/github/followers/anamarcacini?label=follow&style=social)](https://github.com/AnaMarcacini)
 
 
-
-
-## knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" >
-
+<details>
+  <summary> <h2> knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" ></h2>
+ </summary>
 
 <!-- https://img.shields.io/badge/<nome_escrito>-<cor_de_fundo?style=for-the-badge&logo=<nome_logo)&logoColor=<cor_do_logo>" target="_blank"> 
 
@@ -80,6 +79,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 <!-- <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white > -->
 <!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white"/> -->
+  </details>
 
 
 ### GitHub Statistics  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
