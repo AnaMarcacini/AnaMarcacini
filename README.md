@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Ana! Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ana! Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="src/linux2.gif" width="30"> </h2>
 <img align='right' src="src/Linux1.gif" width="210">
 
 
@@ -35,13 +35,16 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white" target="_blank"/>
 
 
- <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
-### Frameworks
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
-<img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react" target="_blank"/>
-<img src="https://img.shields.io/badge/Vue.js-eeeeee?style=for-the-badge&logo=Vue.js" target="_blank"/>
+<details>
+  <summary> <h3>Frameworks </h3></summary>
+    <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
+    <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react" target="_blank"/>
+    <img src="https://img.shields.io/badge/Vue.js-eeeeee?style=for-the-badge&logo=Vue.js" target="_blank"/>
 
 
+  </details>
+ 
 ### IDEs
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit" target="_blank">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"/>
@@ -93,3 +96,5 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mau√
 <img src="" target="_blank"/>
 <img src="" target="_blank"/>
 <img src="" target="_blank"/> -->
+
+
