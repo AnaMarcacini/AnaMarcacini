@@ -1,7 +1,5 @@
-
 <h2> Hi, I'm Ana! Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="src/linux2.gif" width="30"> </h2>
 <img align='right' src="src/Linux1.gif" width="210">
-
 
 <p><em>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>
@@ -13,15 +11,18 @@ Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologi
 <img src="https://i.gifer.com/EF93.gif" width="30" style="border-radius: 50%;">
 Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
 
-
 [![Linkedin: anamarcacini](https://img.shields.io/badge/AnaHelena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-helena/)
 [![GitHub anamarcacini](https://img.shields.io/github/followers/anamarcacini?label=follow&style=social)](https://github.com/AnaMarcacini)
+
+<p align="left">
+  <a href="https://anamarcacini.github.io/AnaMarcacini/AnaMarcacini_eng.pdf"><img alt="Curriculum" title="Curriculum" src="https://img.shields.io/badge/-Curriculum-0D1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 <details>
   <summary> <h2> knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" ></h2>
  </summary>
 
-<!-- https://img.shields.io/badge/<nome_escrito>-<cor_de_fundo?style=for-the-badge&logo=<nome_logo)&logoColor=<cor_do_logo>" target="_blank"> 
+<!-- https://img.shields.io/badge/<nome_escrito>-<cor_de_fundo?style=for-the-badge&logo=<nome_logo)&logoColor=<cor_do_logo>" target="_blank">
 https://www.linkedin.com/pulse/como-criar-badges-figurinhas-personalizadas-github-giacomelli/
 https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-badge
 <nome_logo> -> https://simpleicons.org/
@@ -48,7 +49,9 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
  </summary>
 
  <!-- https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=Rust&logoColor=black)  -->
-### 
+
+###
+
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"/>
 <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react" target="_blank"/>
 <img src="https://img.shields.io/badge/Vue.js-eeeeee?style=for-the-badge&logo=Vue.js" target="_blank"/>
@@ -94,21 +97,16 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 
 <!-- <img src=""/> -->
 
-
-
-
 <!-- <img src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white > -->
 <!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white"/> -->
   </details>
 </details>
 
-
-### GitHub Statistics  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### GitHub Statistics <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <div align="center">
 
- 
   <a href="https://www.linkedin.com/in/ana-helena-marcacini-a06387178" >
   	<img height="200em"src="https://github-readme-stats.vercel.app/api?username=AnaMarcacini&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
 	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=vue" />
@@ -116,37 +114,29 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
  
 ![Snake animation](https://github.com/AnaMarcacini/AnaMarcacini/blob/output/github-contribution-grid-snake.svg)
 
-
 ---
 
 <details>
   <summary> <b> ⭐️ Things to know about me! </b>
  </summary>
 
-
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnaMarcacini}/count.svg" alt="AnaMarcacini :: Visitor's Count" /></p>
 
-
   </details>
-  
 
 <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V0bXBjanU5aWdoZzl2MjFtMWtuZXQ3a2dpams1dzhkdWo2Z3QyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyQY0zTXX4x0c/giphy.gif" width="30" style="border-radius: 50%;"> -->
 <!-- <img src="https://i.gifer.com/GFWM.gif" width="30"> -->
-
-
 
 <!-- <img src="" target="_blank"/>
 <img src="" target="_blank"/>
 <img src="" target="_blank"/>
 <img src="" target="_blank"/> -->
 
-
-<!-- 
+<!--
 <details>
   <summary> <h3> Titulo</h3>
  </summary>
 
   </details> -->
-
