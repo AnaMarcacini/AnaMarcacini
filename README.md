@@ -10,15 +10,19 @@ Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a></br>
 Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologia</a></br>
 <img src="https://i.gifer.com/EF93.gif" width="30" style="border-radius: 50%;">
 Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
-
-[![Linkedin: anamarcacini](https://img.shields.io/badge/AnaHelena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-helena/)
-[![GitHub anamarcacini](https://img.shields.io/github/followers/anamarcacini?label=follow&style=social)](https://github.com/AnaMarcacini)
+	
 
 <p align="left">
   <a href="https://anamarcacini.github.io/AnaMarcacini/AnaMarcacini_eng.pdf"><img alt="Curriculum" title="Curriculum" src="https://img.shields.io/badge/-Curriculum-f25c9b?style=for-the-badge&logo=docusaurus&logoColor=white"/></a>
   <a href="https://anamarcacini.github.io/Cartao-de-Contato/"><img alt="business card" title="business card" src="https://img.shields.io/badge/-business%20card-eb6586?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ana-helena/"><img alt="business card" title="business card" src="https://img.shields.io/badge/-LinkedIn-ff398e?style=for-the-badge&logoColor=white"/></a>
 </p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/ana-helena/"><img alt="business card" title="business card" src="https://img.shields.io/github/followers/anamarcacini?label=follow&style=social"/></a>
+</p>
+
 <!-- carrd -->
+
 <details>
   <summary> <h2> knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" ></h2>
  </summary>
