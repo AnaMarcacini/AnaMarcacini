@@ -24,7 +24,7 @@ Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at MauÃ
 <!-- carrd -->
 
 <details>
-  <summary> <h2> knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" ></h2>
+  <summary> <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" > knowledge and Languages <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611c333e2e3dc9f05de1d51523572065e97ec7f77a6&rid=giphy.gif&ct=g" width="40" ></h2>
  </summary>
 
 <!-- https://img.shields.io/badge/<nome_escrito>-<cor_de_fundo?style=for-the-badge&logo=<nome_logo)&logoColor=<cor_do_logo>" target="_blank">
