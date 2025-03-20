@@ -146,4 +146,4 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 
   </details> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ana%20Marcacini&section=footer&animation=fadeIn&fontAlignY=84&fontAlign=72&fontSize=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=103&color=gradient&text=Ana%20Marcacini&section=footer&animation=fadeIn&fontAlignY=84&fontAlign=89&fontSize=21">
