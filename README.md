@@ -1,6 +1,9 @@
-<h2> Hi, I'm Ana! Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="src/linux2.gif" width="30"> </h2>
+<h2> Hi, I'm Ana! Welcome  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="src/linux2.gif" width="30"> </h2>
 <img align='right' src="src/Linux1.gif" width="210">
 
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=35E951&width=435&lines=Hi%2C+I'm+Ana!+Welcome)](https://git.io/typing-svg) 
+https://readme-typing-svg.demolab.com/demo/?weight=600&color=35E951&lines=Hi%2C+I%27m+Ana!+Welcome -->
 <p><em>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>
 Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
@@ -147,3 +150,4 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
   </details> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=103&color=gradient&text=Ana%20Marcacini&section=footer&animation=fadeIn&fontAlignY=84&fontAlign=89&fontSize=21">
+<!-- https://capsule-render.vercel.app/ -->
