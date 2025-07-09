@@ -5,14 +5,14 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=35E951&width=435&lines=Hi%2C+I'm+Ana!+Welcome)](https://git.io/typing-svg) 
 https://readme-typing-svg.demolab.com/demo/?weight=600&color=35E951&lines=Hi%2C+I%27m+Ana!+Welcome -->
 <p><em>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>
-Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30">
+<img src="src/Honda-cortado.gif" width="30"/>  Risk Management Trainee at <a href="https://www.honda.com.br/"> Honda </a></br> 
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>  Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30">  
 Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a></br> 
-<img src="src/animation.gif" width="30">
+<img src="src/animation.gif" width="30">  
 Former Calculus Tutor <a href="https://mauajr.com/">Instituto Mauá de Tecnologia</a></br>
 <img src="https://i.gifer.com/EF93.gif" width="30" style="border-radius: 50%;">
-Former Intern at <a href="https://smartcampus.maua.br/"> Research Center at Mauá Institute of Technology </br></a>
+Former Intern at <a href="https://smartcampus.maua.br/">  Research Center at Mauá Institute of Technology </br></a>
 	
 
 <p align="left">
