@@ -16,7 +16,7 @@ Former Intern at <a href="https://smartcampus.maua.br/">  Research Center at Mau
 	
 
 <p align="left">
-  <a href="https://anamarcacini.github.io/AnaMarcacini/AnaMarcacini_eng.pdf"><img alt="Curriculum" title="Curriculum" src="https://img.shields.io/badge/-Curriculum-f25c9b?style=for-the-badge&logo=docusaurus&logoColor=white"/></a>
+  <a href="https://anamarcacini.github.io/Curiculo/"><img alt="Curriculum" title="Curriculum" src="https://img.shields.io/badge/-Curriculum-f25c9b?style=for-the-badge&logo=docusaurus&logoColor=white"/></a>
   <a href="https://anamarcacini.github.io/Cartao-de-Contato/"><img alt="business card" title="business card" src="https://img.shields.io/badge/-business%20card-eb6586?style=for-the-badge&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ana-helena/"><img alt="business card" title="business card" src="https://img.shields.io/badge/-LinkedIn-ff398e?style=for-the-badge&logoColor=white"/></a>
 </p>
