@@ -110,6 +110,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 <!-- <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white"/> -->
   </details>
 </details>
+<img src= "src/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### GitHub Statistics <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
