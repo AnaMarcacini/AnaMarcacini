@@ -121,7 +121,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMarcacini&layout=compact&langs_count=7&theme=vue" />
  </div>
  
-![Snake animation](https://github.com/AnaMarcacini/AnaMarcacini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnaMarcacini/AnaMarcacini/blob/output/anas_version.svg)
 
 ---
 
