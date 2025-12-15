@@ -123,9 +123,9 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/anas_dark_version.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/anas_version.svg" />
-  <img alt="github-snake" src="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/anas_dark_version.svg" />
 </picture>
 ---
 
