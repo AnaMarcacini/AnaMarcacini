@@ -130,7 +130,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 ---
 
 <details>
-  <summary> <b> ⭐️ Things to know about me! </b>
+  <summary> <b> ⭐️  </b>
  </summary>
 
 <h4 align="center">Visitor's count :eyes:</h4>
