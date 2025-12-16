@@ -6,7 +6,7 @@
 https://readme-typing-svg.demolab.com/demo/?weight=600&color=35E951&lines=Hi%2C+I%27m+Ana!+Welcome -->
 <p><em>
 <img src="src/Honda-cortado.gif" width="30"/>  Risk Management Trainee at <a href="https://www.honda.com.br/"> Honda </a></br> 
-<img src="https://i.ibb.co/RG4xfyVd/maua-logo-ana.gif" width="30"/>  Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
+<img src="src/maua-logo.gif" width="30"/>  Computer Enginner at <a href="https://maua.br/"> Instituto Mauá de Tecnologia </a></br> 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="30">  
 Former Senior Consultant <a href="https://maua.br/">Mauá Jr</a></br> 
 <img src="src/animation.gif" width="30">  
@@ -127,7 +127,6 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/anas_version.svg" />
   <img alt="github-snake" src="https://github.com/AnaMarcacini/AnaMarcacini/blob/output/anas_dark_version.svg" />
 </picture>
----
 
 <!-- <details>
   <summary> <b> ⭐️  </b>
