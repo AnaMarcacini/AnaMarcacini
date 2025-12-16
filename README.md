@@ -129,7 +129,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 </picture>
 ---
 
-<details>
+<!-- <details>
   <summary> <b> ⭐️  </b>
  </summary>
 
@@ -137,7 +137,7 @@ https://img.shields.io/badge/<texto_cor_1>-<texto_cor_2>-<cor>?style=for-the-bad
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnaMarcacini}/count.svg" alt="AnaMarcacini :: Visitor's Count" /></p>
 
-  </details>
+  </details> -->
 
 <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V0bXBjanU5aWdoZzl2MjFtMWtuZXQ3a2dpams1dzhkdWo2Z3QyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyQY0zTXX4x0c/giphy.gif" width="30" style="border-radius: 50%;"> -->
 <!-- <img src="https://i.gifer.com/GFWM.gif" width="30"> -->
